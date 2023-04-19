@@ -1,3 +1,15 @@
+<?php
+
+use uzdevid\dashboard\components\Url;
+use uzdevid\dashboard\widgets\ModalPage\ModalPage;
+
+/***
+ * @var \yii\web\View $this
+ * @var \uzdevid\dashboard\models\User $online_users
+ * @var \uzdevid\dashboard\models\User $users
+ */
+?>
+
 <li class="nav-item dropdown me-3">
     <a class="nav-link nav-icon btn btn-outline-light" data-bs-toggle="dropdown">
         <i class="bi bi-person-check"></i>

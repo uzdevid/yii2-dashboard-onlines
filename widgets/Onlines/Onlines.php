@@ -3,6 +3,7 @@
 namespace uzdevid\dashboard\onlines\widgets\Onlines;
 
 use uzdevid\dashboard\models\User;
+use Yii;
 use yii\base\Widget;
 use yii\helpers\ArrayHelper;
 
